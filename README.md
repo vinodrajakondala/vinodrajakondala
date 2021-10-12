@@ -7,7 +7,7 @@
 ## I'm a Content creator, Developer and Teacher!!
 
 - 🔭 Explore, analyze and find patterns in stock market moves.
-- 🌱 I’m currently learning more on Artifical intelligence.
+- 🌱 I’m currently learning more on Artificial intelligence.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw pencil sketches.
